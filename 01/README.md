@@ -8,6 +8,8 @@ Tu tarea es utilizar este objeto y escribir un código eficiente que permita a R
 - Crea una funcion que te devuelva la media de los productos con un precio superior a 1.50
 - Crea una funcion que te permita filtrar los productos por ingrediente
 - Calcula la media de todos los productos que llevan chocolate
+- Crea una funcion que te devuelva una copia los productos, con el precio aumentado en un euro.
+- Crea una funcion que te modifique los productos, con el precio aumentado en un euro.
 
 - Dificil: Crea una funcion que tomando los productos, te devuelva un objeto con los productos agrupados por ingrediente. Por ejemplo
 ```
