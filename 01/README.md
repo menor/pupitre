@@ -8,3 +8,22 @@ Tu tarea es utilizar este objeto y escribir un código eficiente que permita a R
 - Crea una funcion que te devuelva la media de los productos con un precio superior a 1.50
 - Crea una funcion que te permita filtrar los productos por ingrediente
 - Calcula la media de todos los productos que llevan chocolate
+
+- Dificil: Crea una funcion que tomando los productos, te devuelva un objeto con los productos agrupados por ingrediente. Por ejemplo
+```
+const productosPorIngrediente = {
+  harina: [
+    {
+    producto: "Donut",
+    precio: 1.5,
+    ingredientes: ["harina", "azúcar", "levadura"],
+  },
+  {
+    producto: "Palmera de chocolate",
+    precio: 1.2,
+    ingredientes: ["harina", "azúcar", "chocolate"],
+  },
+  ],
+  azucar: ...
+}
+```
